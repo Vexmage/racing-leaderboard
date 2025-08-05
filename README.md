@@ -6,7 +6,7 @@ Animated with **Framer Motion** and powered by a JSON data source.
 ## 🚀 Live Demo
 - **Netlify:** [https://luminous-bublanina-1bc7ba.netlify.app](https://luminous-bublanina-1bc7ba.netlify.app)
 
-![Screenshot](public/screenshot.png)
+![Racing Leaderboard Screenshot](public/screenshot.png)
 
 ## ✨ Features
 - Astro static site + partial hydration for React component
