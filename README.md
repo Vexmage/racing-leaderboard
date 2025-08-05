@@ -4,7 +4,7 @@ A fast, arcade-style racing leaderboard built with **Astro** and **React**, styl
 Animated with **Framer Motion** and powered by a JSON data source.
 
 ## 🚀 Live Demo
-- **Netlify:** [https://luminous-bublanina-1bc7ba.netlify.app](https://luminous-bublanina-1bc7ba.netlify.app)
+- **Netlify:** [https://luminous-bublanina-1bc7ba.netlify.app](https://racing-leaderboard.netlify.app/))
 
 ![Racing Leaderboard Screenshot](public/screenshot.png)
 
