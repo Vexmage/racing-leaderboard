@@ -4,7 +4,6 @@ A fast, arcade-style racing leaderboard built with **Astro** and **React**, styl
 Animated with **Framer Motion** and powered by a JSON data source.
 
 ## 🚀 Live Demo
-- **Vercel:** [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)  
 - **Netlify:** [https://luminous-bublanina-1bc7ba.netlify.app](https://luminous-bublanina-1bc7ba.netlify.app)
 
 ![Screenshot](public/screenshot.png)
